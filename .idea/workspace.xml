@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30b7e4a0-b899-49c3-865c-0311dfadae62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java" />
-    </list>
+    <list default="true" id="30b7e4a0-b899-49c3-865c-0311dfadae62" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,34 +18,27 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PersonWarehouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="88" column="46" lean-forward="true" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestPersonWarehouse.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestPersonWarehouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StreamFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamFilter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
               <caret line="82" column="10" lean-forward="false" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStreamFilter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+              <folding>
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -416,33 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPersonWarehouse.testGetNames">
-    <configuration default="false" name="TestPersonWarehouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.streams.anthropoid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="streamdemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.anthropoid" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.anthropoid.TestPersonWarehouse" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestStreamFilter">
     <configuration default="false" name="TestPersonWarehouse.testGetUniquelyNamedPeople" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -535,6 +499,32 @@
       <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.anthropoid.TestPersonWarehouse" />
       <option name="METHOD_NAME" value="testGetNames" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestStreamFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="streamdemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.TestStreamFilter" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -921,19 +911,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeople" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeople" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestStreamFilter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeople" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestStreamFilter" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeople" />
       </list>
     </recent_temporary>
   </component>
@@ -950,7 +940,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493756132542</updated>
-      <workItem from="1496691162299" duration="4839000" />
+      <workItem from="1496691162299" duration="5454000" />
     </task>
     <servers />
   </component>
@@ -960,9 +950,6 @@
     </history-entry>
     <history-entry file="TestPersonFactory_testCreateRandomPersonList - 2017.06.05 at 16h 00m 28s.xml">
       <configuration name="TestPersonFactory.testCreateRandomPersonList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPersonFactory_testCreateRandomPersonStream - 2017.06.05 at 15h 54m 48s.xml">
-      <configuration name="TestPersonFactory.testCreateRandomPersonStream" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestPersonFactory_testCreateRandomPersonStream - 2017.06.05 at 15h 57m 13s.xml">
       <configuration name="TestPersonFactory.testCreateRandomPersonStream" configurationId="JUnit" />
@@ -985,9 +972,12 @@
     <history-entry file="TestPersonWarehouse_testGetUniquelyNamedPeopleStartingWith - 2017.06.05 at 16h 58m 06s.xml">
       <configuration name="TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestStreamFilter - 2017.06.05 at 17h 03m 54s.xml">
+      <configuration name="TestStreamFilter" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4839000" />
+    <option name="totallyTimeSpent" value="5454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1000,7 +990,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1249" y="-1053" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1011,7 +1001,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3140244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3140244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.264308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1145,17 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="69" lean-forward="false" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding>
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#863#864#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1355,16 +1334,18 @@
         <state relative-caret-position="167">
           <caret line="44" column="61" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestPersonWarehouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="82" column="10" lean-forward="false" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="1020">
+          <caret line="68" column="57" lean-forward="true" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1376,12 +1357,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestPersonWarehouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        <state relative-caret-position="638">
+          <caret line="82" column="10" lean-forward="false" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
           </folding>
         </state>
       </provider>
