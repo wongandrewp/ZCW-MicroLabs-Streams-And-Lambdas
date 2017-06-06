@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30b7e4a0-b899-49c3-865c-0311dfadae62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,69 +23,73 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StreamFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamFilter.java">
+      <file leaf-file-name="ArrayConverter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="100" column="85" lean-forward="true" selection-start-line="100" selection-start-column="85" selection-end-line="100" selection-end-column="85" />
+            <state relative-caret-position="465">
+              <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding>
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestStreamFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
+      <file leaf-file-name="TestSuiteFullRegression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestSuiteFullRegression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-              <folding>
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="835">
-              <caret line="66" column="73" lean-forward="false" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="73" />
+            <state relative-caret-position="120">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonWarehouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java">
+      <file leaf-file-name="TestConverterStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="88" column="46" lean-forward="false" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
+            <state relative-caret-position="120">
+              <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamMap.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamMap.java">
+      <file leaf-file-name="TestConversionAgent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConversionAgent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamConverter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <folding>
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1110#1111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConversionAgent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ConversionAgent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#871#872#0" expanded="true" />
-                <element signature="e#1096#1097#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-              </folding>
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,22 +174,22 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/StringUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ConversionAgent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/DateUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConversionAgent.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/logging/LoggerWarehouse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/logging/LoggerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/PersonConversionAgent.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestPersonWarehouse.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestSuiteAnthropoidRegression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestSuiteFullRegression.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonFactory.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/StreamMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConversionAgent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java" />
       </list>
     </option>
   </component>
@@ -193,10 +200,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1249" />
-    <option name="y" value="-1053" />
+    <option name="x" value="-1253" />
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -280,7 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="anthropoid" />
+              <option name="myItemId" value="conversions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,6 +314,66 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="streams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZCW-MicroLabs-Streams-And-Lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZCW-MicroLabs-Streams-And-Lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="streams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZCW-MicroLabs-Streams-And-Lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZCW-MicroLabs-Streams-And-Lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="streams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conversions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -356,6 +423,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -384,97 +452,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestStreamFilter">
-    <configuration default="false" name="TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestConverterStream">
+    <configuration default="false" name="TestConverterArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.streams.anthropoid.*" />
+          <option name="PATTERN" value="com.zipcodewilmington.streams.conversions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="streamdemo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.anthropoid" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.anthropoid.TestPersonWarehouse" />
-      <option name="METHOD_NAME" value="testGetUniquelyNamedPeopleStartingWith" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.streams.anthropoid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="streamdemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.anthropoid" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.anthropoid.TestPersonWarehouse" />
-      <option name="METHOD_NAME" value="testGetFirstNUniquelyNamedPeople" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestPersonWarehouse.testGetNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.streams.anthropoid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="streamdemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.anthropoid" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.anthropoid.TestPersonWarehouse" />
-      <option name="METHOD_NAME" value="testGetNames" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestStreamFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="streamdemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.TestStreamFilter" />
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.conversions" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.conversions.TestConverterArray" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -489,7 +479,85 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TestStreamFilter.testToListMultiLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestConversionAgent.testCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.streams.conversions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="streamdemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.conversions" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.conversions.TestConversionAgent" />
+      <option name="METHOD_NAME" value="testCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestConverterList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.streams.conversions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="streamdemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.conversions" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.conversions.TestConverterList" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestConverterStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.streams.conversions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="streamdemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams.conversions" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.conversions.TestConverterStream" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSuiteFullRegression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.zipcodewilmington.streams.*" />
@@ -500,9 +568,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.zipcodewilmington.streams" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.TestStreamFilter" />
-      <option name="METHOD_NAME" value="testToListMultiLine" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.streams.TestSuiteFullRegression" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -889,19 +957,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestStreamFilter" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestStreamFilter.testToListMultiLine" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestConverterArray" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestConversionAgent.testCount" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestConverterList" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestConverterStream" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSuiteFullRegression" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestStreamFilter" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestStreamFilter.testToListMultiLine" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetNames" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestConverterStream" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSuiteFullRegression" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestConversionAgent.testCount" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestConverterList" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestConverterArray" />
       </list>
     </recent_temporary>
   </component>
@@ -918,44 +986,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493756132542</updated>
-      <workItem from="1496691162299" duration="8534000" />
+      <workItem from="1496691162299" duration="10894000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPersonFactory_testCreateRandomPersonStream - 2017.06.05 at 22h 49m 09s.xml">
-      <configuration name="TestPersonFactory.testCreateRandomPersonStream" configurationId="JUnit" />
+    <history-entry file="TestConversionAgent_testCount - 2017.06.06 at 13h 55m 21s.xml">
+      <configuration name="TestConversionAgent.testCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPersonWarehouse_testGetFirstNUniquelyNamedPeople - 2017.06.05 at 16h 59m 47s.xml">
-      <configuration name="TestPersonWarehouse.testGetFirstNUniquelyNamedPeople" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 13h 45m 09s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPersonWarehouse_testGetNames - 2017.06.05 at 17h 03m 03s.xml">
-      <configuration name="TestPersonWarehouse.testGetNames" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 13h 52m 51s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPersonWarehouse_testGetUniquelyNamedPeopleStartingWith - 2017.06.05 at 16h 58m 06s.xml">
-      <configuration name="TestPersonWarehouse.testGetUniquelyNamedPeopleStartingWith" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 13h 56m 21s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter - 2017.06.05 at 17h 03m 54s.xml">
-      <configuration name="TestStreamFilter" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 13h 59m 45s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter - 2017.06.06 at 09h 14m 31s.xml">
-      <configuration name="TestStreamFilter" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 14h 00m 25s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter - 2017.06.06 at 10h 50m 48s.xml">
-      <configuration name="TestStreamFilter" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 14h 00m 45s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter - 2017.06.06 at 10h 51m 21s.xml">
-      <configuration name="TestStreamFilter" configurationId="JUnit" />
+    <history-entry file="TestConverterStream - 2017.06.06 at 14h 02m 53s.xml">
+      <configuration name="TestConverterStream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter_testToListMultiLine - 2017.06.06 at 10h 39m 40s.xml">
-      <configuration name="TestStreamFilter.testToListMultiLine" configurationId="JUnit" />
+    <history-entry file="TestSuiteFullRegression - 2017.06.06 at 13h 54m 04s.xml">
+      <configuration name="TestSuiteFullRegression" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStreamFilter_testToListMultiLine - 2017.06.06 at 10h 43m 07s.xml">
-      <configuration name="TestStreamFilter.testToListMultiLine" configurationId="JUnit" />
+    <history-entry file="TestSuiteFullRegression - 2017.06.06 at 13h 56m 14s.xml">
+      <configuration name="TestSuiteFullRegression" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8534000" />
+    <option name="totallyTimeSpent" value="10894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -967,19 +1035,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1249" y="-1053" width="1920" height="1053" extended-state="0" />
+    <frame x="-1253" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32723576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31707317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30203292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.264308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1018,7 +1086,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Iterable.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcode/LoopMethods.java" />
@@ -1070,95 +1137,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/ReflectionUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/RandomUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="57" column="41" lean-forward="false" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ConversionAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/PersonConversionAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="69" lean-forward="false" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConversionAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestSuiteConversionRegression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1202,45 +1185,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#745#746#0" expanded="false" />
-            <element signature="e#772#773#0" expanded="false" />
-            <element signature="e#897#898#0" expanded="false" />
-            <element signature="e#940#941#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#971#972#0" expanded="false" />
-            <element signature="e#998#999#0" expanded="false" />
-            <element signature="e#1043#1044#0" expanded="false" />
-            <element signature="e#1070#1071#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestSuiteFullRegression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/anthropoid/TestPerson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1293,25 +1238,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding>
-            <element signature="e#888#889#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
-          <caret line="66" column="73" lean-forward="false" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonWarehouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="769">
@@ -1325,23 +1251,8 @@
         <state relative-caret-position="515">
           <caret line="100" column="85" lean-forward="true" selection-start-line="100" selection-start-column="85" selection-end-line="100" selection-end-column="85" />
           <folding>
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="false" />
+            <element signature="e#841#842#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1351,12 +1262,178 @@
         <state relative-caret-position="210">
           <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+            <element signature="e#817#818#0" expanded="false" />
+            <element signature="e#871#872#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestStreamFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/anthropoid/PersonFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="66" column="73" lean-forward="false" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/PersonConversionAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ListConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
             <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ArrayConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="86" lean-forward="true" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/TestSuiteFullRegression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/RandomUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/tools/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="57" column="41" lean-forward="false" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="498" column="0" lean-forward="false" selection-start-line="498" selection-start-column="0" selection-end-line="498" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConverterStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/ConversionAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/streams/conversions/TestConversionAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/streams/conversions/StreamConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
           </folding>
         </state>
       </provider>
