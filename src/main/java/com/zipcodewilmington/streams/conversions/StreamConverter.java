@@ -26,7 +26,7 @@ public final class StreamConverter extends PersonConversionAgent<Stream<Person>>
 
     // TODO
     public List<Person> toList() {
-        return this.objectSequence.collect(Collectors.toCollection(ArrayList::new));
+        return this.personList;
     }
 
     // TODO
@@ -36,7 +36,7 @@ public final class StreamConverter extends PersonConversionAgent<Stream<Person>>
 
     // TODO
     public Person[] toArray() {
-        Person[] peopleArr = new Person[(int)objectSequence.count()];
+        Person[] peopleArr = new Person[personList.size()];
         return this.personList.toArray(peopleArr);
     }
 }
